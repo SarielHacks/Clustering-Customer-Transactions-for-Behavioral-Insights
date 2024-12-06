@@ -15,3 +15,14 @@ This project applies clustering techniques to identify patterns in customer tran
 1. Clone the repository.
 2. Navigate to the project folder:
 3. Install dependencies:
+
+
+## Requirements
+- Python 3.8+
+- Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn
+
+## Dataset
+Ensure the `dataset.csv` file is in the `data/` folder. Replace this with your dataset as needed.
+
+## Results
+Cluster visualizations and evaluation metrics will be saved in the `results/` folder.
