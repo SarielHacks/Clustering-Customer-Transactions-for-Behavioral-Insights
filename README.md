@@ -26,3 +26,10 @@ Ensure the `dataset.csv` file is in the `data/` folder. Replace this with your d
 
 ## Results
 Cluster visualizations and evaluation metrics will be saved in the `results/` folder.
+
+
+Steps to Execute
+1.  Place your dataset in the data/ folder (e.g., dataset.csv).
+2.  Preprocess the data using src/preprocessing.py.
+3.  Perform clustering with src/clustering.py.
+4.  Visualize the results with src/visualization.py.
